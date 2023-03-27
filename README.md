@@ -1,5 +1,5 @@
 # triangles_VS_squares
-
+<img src="https://github.com/athangk/triangles_VS_squares/blob/main/game_snip_logo.JPG">
 A hero triangle blasting incoming squares.
 Squares can collide to each other changing their appearance and speed.
 
