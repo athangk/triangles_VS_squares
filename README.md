@@ -9,5 +9,5 @@ Repo contains pool classes of enemies and bulletshots.
 #### - Full game display
 
 <p float=left>
-<img src="https://github.com/athangk/triangles_VS_squares/blob/main/full_game_hd.gif" width="440">
+<img src="https://github.com/athangk/triangles_VS_squares/blob/main/full_game_hd.gif" width="640">
   </p>
