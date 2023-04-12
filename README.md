@@ -13,7 +13,7 @@ Squares can collide to each other changing their appearance and speed.
   </p>
 
 
-#### - Giff dropping enemies and background stars 
+#### - Giff dropping enemies, background stars and particles when player looses 
 
 <p float=left>
 <img src="https://github.com/athangk/triangles_VS_squares/blob/main/background_dot_maker_giff.gif" width="240">
