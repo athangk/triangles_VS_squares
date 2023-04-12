@@ -13,7 +13,7 @@ export class BackgroundDot extends Phaser.Physics.Arcade.Sprite {
 
   addDot(x, y) {
     this.body.reset(x, y);
-    let randomDotColor = Math.floor(Math.random() * 5);
+    const randomDotColor = Math.floor(Math.random() * 5);
 
     this.setTint(TINT_ARRAY_COLOR[randomDotColor]);
     this.setVelocityY(randomDotColor + 1);
