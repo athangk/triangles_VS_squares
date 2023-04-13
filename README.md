@@ -3,8 +3,7 @@
 A hero triangle blasting incoming squares.
 Squares can collide to each other changing their appearance and speed.
 
-* Repo contains pool classes of enemies and bullet shots.
-
+* Repo contains pool classes of enemies, bullet shots and background animation particles.
 
 #### - Giff game display
 
@@ -13,9 +12,9 @@ Squares can collide to each other changing their appearance and speed.
   </p>
 
 
-#### - Giff dropping enemies, background stars and particles when player looses 
+#### - Giff dropping enemies, background stars (a) and particles (b) when player looses 
 
 <p float=left>
-<img src="https://github.com/athangk/triangles_VS_squares/blob/main/background_dot_maker_giff.gif" width="240">
-<img src="https://github.com/athangk/triangles_VS_squares/blob/main/Part%231_2.gif" width="240">
+  <span>(a)</span><img src="https://github.com/athangk/triangles_VS_squares/blob/main/background_dot_maker_giff.gif" width="240">
+<span>(b)</span><img src="https://github.com/athangk/triangles_VS_squares/blob/main/Part%231_2.gif" width="240">
   </p>
